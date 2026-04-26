@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=blue" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-21-blue" />
+  <img src="https://img.shields.io/badge/Age-22-blue" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-blue" />
 </p>
