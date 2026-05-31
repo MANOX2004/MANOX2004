@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+  <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3EycmlyZjJ2MGU1ZDRxMm42dW11dmFrNnBvOTIyZTBpcnh2bWdrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p></p>
 
 <p align="center"> 
